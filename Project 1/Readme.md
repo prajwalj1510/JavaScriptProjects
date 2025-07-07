@@ -1,4 +1,3 @@
-<!--
 📌 Smart Expense Tracker – Project Documentation
 
 🧩 Overview:
